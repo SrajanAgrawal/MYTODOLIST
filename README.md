@@ -32,4 +32,6 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 
 ## Demo
 
-https://beamish-gumdrop-5f9be0.netlify.app/main.html
+https://beamish-gumdrop-5f9be0.netlify.app
+
+
